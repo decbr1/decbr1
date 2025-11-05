@@ -11,7 +11,7 @@
 ### Projects
 - Currently in College with Software Development.
 - Junior Web Developer and AI Solutions at IBM
-- I have previously worked development for [BiomeBattle](https://twitter.com/BiomeBattle)!
+- I have previously worked development for [BiomeBattle](https://twitter.com/BiomeBattle)
 
 ### To-Do List
 - Finish this README 💔
