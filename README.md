@@ -1,6 +1,6 @@
-# Hey :wave:, I'm DiaDuck! 💎🦆
+# Hey :wave:, I'm Declan.
 
-### I'm a student learning C, Python, and Java 🖥️
+### I'm a student learning Web Development and Java 🖥️
 
 ### About me:
 - I'm from Manchester! 📌
@@ -9,9 +9,9 @@
 - I'm always looking to learn and develop my skills 🎉
 
 ### Projects
-- Currently in full time work for undisclosed, private companies.
-- I have previously worked development for [BiomeBattle](https://twitter.com/BiomeBattle)! Go check them out :)
-- One day i'll do something with [DiaBot](https://github.com/diaduck/DiaBot), my discord bot, but I really cannot be bothered...
+- Currently in College with Software Development.
+- Junior Web Developer and AI Solutions at IBM
+- I have previously worked development for [BiomeBattle](https://twitter.com/BiomeBattle)!
 
 ### To-Do List
 - Finish this README 💔
