@@ -9,8 +9,8 @@
 - I'm always looking to learn and develop my skills 🎉
 
 ### Projects
-- Currently in College with Software Development.
-- Junior Web Developer and AI Solutions at IBM
+- Currently in College doing Software Development.
+- Junior Web Developer specilising in AI Solutions at IBM.
 - I have previously worked development for [BiomeBattle](https://twitter.com/BiomeBattle)
 
 ### To-Do List
