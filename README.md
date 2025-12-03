@@ -2,7 +2,7 @@
 
 ### I'm a student learning API Design and Web Development 🖥️
 
-### About me:
+### About me
 - I'm from Manchester! 📌
 - I'm on the Production Team for [BiomeBattle](https://twitter.com/BiomeBattle)
 - I used linux before it was cool.
@@ -18,7 +18,7 @@
 - Comfortable in HTML/CSS/JS, Bash, and *Nix Systems
 - Knowledgable of Swift, SwiftUI, C
 
-### Qualifications:
+### Qualifications
 - T Level Digital Software Development
 - Full Stack Web & AI at IBM
 - 9 in Computer Science GCSE
