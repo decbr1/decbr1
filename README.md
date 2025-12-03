@@ -1,6 +1,6 @@
 # Hey :wave:, I'm Declan.
 
-### I'm a student learning Web Development and Java 🖥️
+### I'm a student learning API Design and Web Development 🖥️
 
 ### About me:
 - I'm from Manchester! 📌
@@ -12,6 +12,17 @@
 - Currently in College doing Software Development.
 - Junior Web Developer and AI Solutions at IBM.
 - I have previously worked development for [BiomeBattle](https://twitter.com/BiomeBattle)
+
+### Skills
+- Proficient in Python, Java
+- Comfortable in HTML/CSS/JS, Bash, and *Nix Systems
+- Knowledgable of Swift, SwiftUI, C
+
+### Qualifications:
+- T Level Digital Software Development
+- Full Stack Web & AI at IBM
+- 9 in Computer Science GCSE
+
 
 ### To-Do List
 - Finish this README 💔
