@@ -14,8 +14,8 @@
 - I have previously worked development for [BiomeBattle](https://twitter.com/BiomeBattle)
 
 ### Skills
-- Proficient in Python, Java
-- Comfortable in Go, Bash, and *Nix Systems
+- Proficient in Python and *Nix Systems
+- Comfortable in Go, Bash, and Java
 - Knowledgable of Swift, SwiftUI, C, and HTML/CSS/JS,
 
 ### Qualifications
