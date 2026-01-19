@@ -6,7 +6,6 @@
 - I'm from Manchester! 📌
 - I'm on the Production Team for [BiomeBattle](https://twitter.com/BiomeBattle)
 - I used linux before it was cool.
-- I'm always looking to learn and develop my skills 🎉
 
 ### Projects
 - Currently in College doing Software Development.
